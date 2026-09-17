@@ -343,6 +343,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFFKTSKP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 243-TGE-Template\Design Rule Check - ClickBoard.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=NomDeLetudiant
 Value=Le nom de l'étudiant
