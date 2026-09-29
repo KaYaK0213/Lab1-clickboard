@@ -4,9 +4,9 @@ C:\Users\2357758\Desktop\Lab1-clickboard\Projet-Exemple\.\Generate Files\Generat
 ========================================================================================================================
 File Design Information:
 
-Date:       22-09-26
-Time:       10:48
-Revision:   a321acf420577a1d550b11b40d6e0697e49ae701
+Date:       29-09-26
+Time:       11:44
+Revision:   8bdb223256c05b9b94f7435e6793b9b2a24c5de4
 Variant:    No variations
 Units used: mm
 
@@ -17,9 +17,9 @@ Units used: mm
 "C2","CAP CER 100nF 50V 0603","TopLayer","C_1608[0603]","12.6722","28.2880","0","Capacitor type 1"
 "C1","CAP CER 100nF 50V 0603","TopLayer","C_1608[0603]","16.3750","37.5750","180","Capacitor type 1"
 "C6","CAP CER 2.2uF 10V X7R 0603","TopLayer","C_1608[0603]","12.0000","12.4250","90","Capacitor type 1"
-"MH4","DNP","TopLayer","MP_M-Hole_M2-NonPlated","2.5000","69.5000","90","Mounting Hole 2mm non plated"
+"MH4","DNP","TopLayer","MP_M-Hole_M2-NonPlated","2.5000","61.5000","90","Mounting Hole 2mm non plated"
 "MH3","DNP","TopLayer","MP_M-Hole_M2-NonPlated","2.5000","2.5000","90","Mounting Hole 2mm non plated"
-"MH2","DNP","TopLayer","MP_M-Hole_M2-NonPlated","37.5000","62.0000","90","Mounting Hole 2mm non plated"
+"MH2","DNP","TopLayer","MP_M-Hole_M2-NonPlated","37.5000","54.0000","90","Mounting Hole 2mm non plated"
 "MH1","DNP","TopLayer","MP_M-Hole_M2-NonPlated","37.5000","2.5000","0","Mounting Hole 2mm non plated"
 "Fid3","DNP","TopLayer","FD_Fiducial","36.8250","19.2000","90","Fiducial mark for alignement and Pick&Place"
 "Fid2","DNP","TopLayer","FD_Fiducial","35.6750","51.2250","90","Fiducial mark for alignement and Pick&Place"
